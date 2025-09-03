@@ -9,6 +9,7 @@ dependencies = [
     "notebook>=7.4.5",
     "numpy>=2.3.2",
     "pandas>=2.3.2",
+    "plotly>=6.3.0",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
 ]
